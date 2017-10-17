@@ -5,13 +5,13 @@ pip install -r requirements.txt
 
 ## Used libraries
 
-used 
 pymongo
 gensim
 
 
-# Running mongodbw
+# Running mongodb
 docker pull mongo
+
 docker run -it -p 27017:27017 mongo
 
 # Running application
