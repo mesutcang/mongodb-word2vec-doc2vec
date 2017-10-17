@@ -1,5 +1,6 @@
 # Installing dependencies
 sudo easy_install pip
+
 pip install -r requirements.txt
 
 ## Used libraries
